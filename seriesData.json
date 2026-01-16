@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "name": "Dark",
+    "imgUrl": "https://picsum.photos/400/600?random=1",
+    "rating": 8.7,
+    "description": "Dark ek German sci-fi thriller series hai jo time travel aur family secrets par based hai.",
+    "genre": ["Sci-Fi", "Thriller", "Mystery"],
+    "cast": ["Louis Hofmann", "Lisa Vicari", "Andreas Pietschmann"],
+    "watchUrl": "https://www.netflix.com/title/80100172"
+  },
+  {
+    "id": 102,
+    "name": "Stranger Things",
+    "imgUrl": "https://picsum.photos/400/600?random=2",
+    "rating": 8.6,
+    "description": "Stranger Things ek sci-fi horror series hai jisme bachche ek parallel world ka raaz kholte hain.",
+    "genre": ["Sci-Fi", "Horror", "Drama"],
+    "cast": ["Millie Bobby Brown", "Finn Wolfhard", "David Harbour"],
+    "watchUrl": "https://www.netflix.com/title/80057281"
+  },
+  {
+    "id": 103,
+    "name": "Breaking Bad",
+    "imgUrl": "https://picsum.photos/400/600?random=3",
+    "rating": 9.5,
+    "description": "Breaking Bad ek crime drama hai jisme ek teacher drug lord ban jata hai.",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "cast": ["Bryan Cranston", "Aaron Paul", "Anna Gunn"],
+    "watchUrl": "https://www.netflix.com/title/70143836"
+  }
+]
